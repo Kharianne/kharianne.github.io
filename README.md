@@ -1,2 +1,4 @@
 # kharianne.github.io
-KharianneGitHub Page
+
+## Hello there!
+## Kharianne's GitHub Page
